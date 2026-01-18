@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"beans"},{"l":"connessione"},{"l":"dao"},{"l":"visualizzazione_dipendente"},{"l":"visualizzazione_impresa"}];updateSearchResults();
