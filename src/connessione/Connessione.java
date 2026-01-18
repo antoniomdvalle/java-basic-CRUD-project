@@ -8,7 +8,7 @@ public class Connessione {
     Connection conn;
         public Connection collegare(){
         try{
-            conn = DriverManager.getConnection("jdbc:mysql://localhost/esempiojavabd", "root", "#cart3ir4el0k4..,");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost/esempiojavabd", "root", "PASSWORD");
             System.out.println("Connessione stabilita con successo.");
             return conn;
         }catch(SQLException ex){
